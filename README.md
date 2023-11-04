@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Salsabeel Alsahoury</h1>
 <h3 align="center">4th-Year Software Engineering Student</h3>
 
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a04-05-caa7-470c-9356-16d43402ea0a.gif">
+
 <p align="center">
   🌱 I’m currently learning <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Express.js</strong>.
 </p>
 
-<p align="center">
+<p align="right">
   📫 How to reach me: <a href="mailto:salsabeel.alsahoury@gmail.com">salsabeel.alsahoury@gmail.com</a>
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/salsabeel-alsahoury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/salsabeel-alsahoury" height="30" width="40" />
+  <a href="https://linkedin.com/in/www.linkedin.com/in/salsabeel-alsahoury" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/salsabeel-alsahoury" height="30" width="40"/>
   </a>
 </p>
 
