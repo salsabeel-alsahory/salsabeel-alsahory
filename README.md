@@ -2,10 +2,6 @@
 <h3 align="center">4th-Year Software Engineering Student</h3>
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://github.com/salsabeel-alsahory/Content-Management-System-CMS.git">Content Management System (CMS)</a>
-</p>
-
-<p align="center">
   🌱 I’m currently learning <strong>Spring Boot</strong>, <strong>React</strong>, and <strong>Express.js</strong>.
 </p>
 
