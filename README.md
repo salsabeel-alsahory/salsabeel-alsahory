@@ -17,7 +17,7 @@
 </p>
 
 <div align="right">
-  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a04-05-caa7-470c-9356-16d43402ea0a.gif">
+  <img alt="coding" width="400" src="[https://user-images.githubusercontent.com/74038190/236119160-976a04-05-caa7-470c-9356-16d43402ea0a.gif](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
