@@ -17,7 +17,7 @@
 </p>
 
 <div align="right">
-  <img alt="coding" width="400" src="![image](https://github.com/salsabeel-alsahory/salsabeel-alsahory/assets/100838183/3c538b27-ba7f-4f3c-b0b2-950cf772f9a6)">
+  <img alt="coding" width="400" src="https://github.com/salsabeel-alsahory/salsabeel-alsahory/assets/100838183/3c538b27-ba7f-4f3c-b0b2-950cf772f9a6">
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
